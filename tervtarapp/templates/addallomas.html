@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block title %}Jelszó megváltoztatása{% endblock %}
+
+{% block content %}
+<div id="centerscreen">
+    <img src="{% static 'MAVlogo.jpg' %}" width="200px" height="200px" alt="logo">
+    <h1>SM Távközlési Főnökség Tervtár</h1>
+
+    {% for message in messages %} 
+        <p><h3 class="error">{{message}}</h3></p>
+    {% endfor %}
+
+    <form method="POST">
+        {% csrf_token %}
+        {{ form }}
+        <br>
+        <button type="submit" id="loginbutton">Állomás hozzáadása</button>
+        <a href="/"><button type="button" id="loginbutton">Mégsem</button></a>
+    </form>
+</div>
+{% endblock %}

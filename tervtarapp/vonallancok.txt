@@ -1,0 +1,12 @@
+10: Celldömölk-Külsővat-Vinár-Mihályháza-Mezőlak-Pápa-Vaszar-Gecse_Gyarmat-Szerecseny-Gyömöre-Györöme_Tét-Halipuszta-Győrszemere-Ménfőcsanak-Győrszabadhegy-Győr_Gyárváros-Győr 
+11: Győrszabadhegy-Nyúl-Écs-Pannonhalma-Ravazd-Tarjánpuszta-Győrasszonyfa-Bakonypéterd-Veszprémvarsány-Bakonygyirót-Bakonyszentlászló-Vinye-Porva_Csesznek-Zirc-Eplény-Hajmáskér-Veszprém
+13: Kisbér-Bakonyszombathely-Bakonybánk-Tápszentmiklós-Lázi-Veszprémvarsány-Románd-Gic_Hathalom-Bakonytamási-Pápateszér-Franciavágás-Ugod-Nagygyimót-Pusztagyimót-Pápa
+14: Csorna-Rábapordány-Egyed_Rábacsanak-Szany_Rábaszentandrás-Rábahíd-Marcaltő-Nemesgörzsöny-Pápa   
+16: Porpác-Ölbő_Alsószeleste-Pósfa-Hegyfalu-Vasegerszeg-Vámoscsalád-Répcelak-Csánig-Dénesfa-Beled-Vica-Páli_Vadosfa-Magyarkeresztúr_Zsebeháza-Szil_Sopronnémeti-Csorna-Bősárkány-Hanságliget-Hanság_Nagyerdő-Jánossomorja-Mosonszolnok-Hegyeshalom
+17: Szombathely-Gyöngyöshermán-Hatmajor-Sorkifalud-Szentléránt-Püspökmolnári-Vasvár-Pácsony-Győrvár-Egervár_Vasboldogasszony-Zalaszentlőrinc-Zalaszentiván-Alsónemesapáti-Nagykapornak-Búcsúszentlászló-Zalaszentmihály_Pacsa-Pötréte-Felsőrajk-Kilimán-Gelse-Magyarszerdahely-Újudvar
+20: Szombathely-Vép-Porpác-Sárvár-Ostffyasszonyfa-Nagysimonyi-Tokorcs-Kemenesmihályfa-Celldömölk-Nemeskocs-Boba-Kerta-Karakószörcsök-Tüskevár-Somlóvásárhely-Devecser-Kolontár-Ajka-Városlőd_Kislőd-Szentgál-Herend-Márkó-Veszprém-Kádárta-Hajmáskér-Öskü-Pétfürdő-Várpalota-Inota-Csór_Nádasdladány-Sárszentmihály-Sárpentele-Székesfehérvár
+23: Zalaszentiván-Zalaegerszeg-Bocfölde-Sárhida-Bak-Baktüttös-Tófej-Rádiháza-Gutorfölde-Ortaháza-Iklódbördőce-Lentiszombathely-Lenti-Rédics
+25: Boba-Kemenespálfa-Jánosháza-Nemeskeresztúr-Rigács-Ukk-Dabronc-Ötvös-Türje-Zalabér_Batyk-Pakod-Pókaszepetk-Kemendollár-Zalaszentiván-Zalaegerszeg-Bagod-Zalaszentgyörgy-Zalacséb-Salomvár-Budafa-Zalapatakalja-Zalalövő-Felsőjánosfa-Pankasz-Nagyrákos-Őriszentpéter-Bajánsenye-Hodos
+26: Ukk-Gógánfa-Zalagyömörő-Nyírlak-Sümeg-Sümegi bazaltbánya-Uzsa-Uzsabánya alsó-Lesencetomaj-Tapolca
+29: Tapolca-Nemesgulács_Kisapáti-Szigliget-Badacsony-Badacsonytomaj-Badacsonyörs-Ábrahámhegy-Balatonrendes-Szepezdfürdő-Balatonszepezd-Zánka_Köveskál-Zánka_Erzsébettábor-Balatonakali_Dörgicse-Fövenyes-Balatonudvari-Örvényes-Aszófő-Balatonfüred-Balatonarács-Csopak-Alsóörs-Káptalanfüred-Balatonalmádi-Balatonfüzfő-Balatonkenese-Csittényhegy-Balatonakarattya-Csajág-Balatonfőkajár felső-Füle-Polgárdi-Polgárdi_Ipartelepek-Szabadbattyán
+30: Tapolca-Raposka-Balatonederics-Becehegy-Balatongyörök-Vonyarcvashegy-Gyenesdiás-Alsógyenes-Keszthely-Fenékpuszta

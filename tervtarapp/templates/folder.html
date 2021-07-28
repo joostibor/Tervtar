@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}Homepage{% endblock %}
+
+{% block content %}
+    {% if user.is_authenticated %}
+        <div>
+            <h2>Fájlszerkezeti rajz</h2>
+
+            {% for elem in elements %}
+                <a href="http://10.208.192.187:8080/{{elem}}" target="_blank"><pre class="list">{{elem}}</pre></a>
+            {% endfor %}
+        </div>
+        <br>
+        <a href="/">Vissza a főoldalra</a>
+    {% else %}
+        <div class="navbar">
+            <nav>
+                <a href="/bejelentkezes">Bejelentkezés</a>
+            </nav>
+        </div>
+    {% endif %}
+
+{% endblock %}

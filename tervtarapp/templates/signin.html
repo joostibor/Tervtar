@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block title %}Bejelentkezés{% endblock %}
+
+{% block content %}
+<div id="centerscreen">
+    <img src="{% static 'MAVlogo.jpg' %}" width="200px" height="200px" alt="logo">
+    <h1>SM Távközlési Főnökség Tervtár</h1>
+
+    {% for message in messages %} 
+        <p><h3 class="error">{{message}}</h3></p>
+    {% endfor %}
+
+    <form method="POST">
+        {% csrf_token %}
+        {{ login_form|crispy }}
+        <button type="submit" id="loginbutton">Bejelentkezés</button>
+    </form>
+</div>
+{% endblock %}
